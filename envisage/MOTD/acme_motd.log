@@ -1,0 +1,25 @@
+---------- application starting ----------
+plugin envisage.core starting
+loading preferences from </Users/tdiller/.enthought/acme.motd/preferences.ini>
+extensions to <envisage.preferences> <[[], [], []]>
+extensions to <envisage.class_load_hooks> <[[], [], []]>
+extensions to <envisage.categories> <[[], [], []]>
+extensions to <envisage.service_offers> <[[], [<envisage.service_offer.ServiceOffer object at 0x5d8f30>], []]>
+service <1> registered acme.motd.i_motd.IMOTD
+plugin envisage.core started
+plugin acme.motd starting
+plugin acme.motd started
+plugin acme.motd.software_quotes starting
+plugin acme.motd.software_quotes started
+extensions to <acme.motd.messages> <[[], [], [<acme.motd.message.Message object at 0x576ea0>, <acme.motd.message.Message object at 0x576ed0>, <acme.motd.message.Message object at 0x576f00>, <acme.motd.message.Message object at 0x576f30>, <acme.motd.message.Message object at 0x576f60>, <acme.motd.message.Message object at 0x576f90>, <acme.motd.message.Message object at 0x576fc0>, <acme.motd.message.Message object at 0x582030>, <acme.motd.message.Message object at 0x582060>, <acme.motd.message.Message object at 0x582090>]]>
+---------- application started ----------
+---------- application stopping ----------
+plugin acme.motd.software_quotes stopping
+plugin acme.motd.software_quotes stopped
+plugin acme.motd stopping
+plugin acme.motd stopped
+plugin envisage.core stopping
+service <1> unregistered
+plugin envisage.core stopped
+saving preferences to </Users/tdiller/.enthought/acme.motd/preferences.ini>
+---------- application stopped ----------
